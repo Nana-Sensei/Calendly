@@ -1,0 +1,129 @@
+<style> @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap'); 
+</style>
+
+body {
+	line-height: 1.5;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+* {
+	margin:0 ;
+	padding: 0 ;
+
+}
+
+.navbar-home {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+body {
+	line-height: 1.5;
+}
+
+.navbar-calendly-logo {
+	margin-left: 150px;
+}
+
+.nav-menu {
+	margin-right: 700px;
+}
+
+.menu-item {
+	color: black;
+}
+
+.hero-zone {
+	margin-top: 70px;
+}
+
+.ahead {
+	color:#006bff;
+}
+.hero-img {
+	margin-left: 60px;
+}
+
+.sign-up-btn {
+	color: white;
+	background-color:black;
+	border-color: white;}
+.ht-1 {
+	color: #142342;}
+.effi-text {
+	margin-left:0px;
+}
+
+.efficient {
+	margin-top: 80px;
+}
+.right-plans {
+	margin-top: 100px;}
+
+.card-title {
+	color: white;
+	margin-left: 150px;
+	margin-top: 7px;
+}
+.right-plans {
+	margin-top: 100px;
+}
+.our-plans {
+	color: black;
+	background-color: white;
+	border: 2px solid white;
+    border-radius: 50px;
+    margin-left: 150px; margin-bottom: 50px}
+
+.card-text {
+
+}
+.footer-row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.footer {
+	padding-top: 30px;
+	background-color: #f3f3f3;
+	margin-top: 30px;
+}
+
+.footer-col {
+	width: 25%;
+	padding: 55px;
+
+}
+
+ul {
+	list-style: none;
+	color: black;
+}
+
+.footer-col h4 {
+	font-size: 18px;
+	color: #142342;
+	font-weight: 500px;
+	position: relative;
+}
+
+.footer-col h4:: before {
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: -10px;
+	background-color: #e91e63;
+	height: 10px; box-sizing: border-box;
+	width: 50px;
+}
+
+.footer-col ul li a {
+	color: black;
+	display: block;
+	margin-bottom: 10px;
+	transition: all 0.3s ease;}
+	
+.footer-col ul li a:hover {
+	color: #ababab; padding-left: 10px;
+} 

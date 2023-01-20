@@ -1,0 +1,147 @@
+<style> @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap'); </style>
+body {
+	line-height: 1.5;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+* {
+	margin:0 ;
+	padding: 0 ;
+
+}
+/*.navbar-main {
+	background-color: white;
+	position: sticky;
+	top: 0px;*/
+}
+.navbar-home {
+	background-color: ;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.navbar-calendly-logo {
+	margin-left: 150px;
+}
+
+.nav-menu {
+	margin-right: 700px;
+}
+
+.menu-item {
+	color: black;
+}
+
+.hero-zone {
+	margin-top: 70px;
+}
+
+.ahead {
+	color:#006bff;
+}
+.hero-img {
+	margin-left: 100px;
+}
+
+.hero-text {
+	font-size: 20px;
+	color: #66666a; margin-top: 20px;
+margin-bottom: 20px}
+
+.sign-up-btn {
+	color: white;
+	background-color: #006bff;
+	border-color: white;}
+.ht-1 {
+	color: #142342;}
+.brands {
+	background-color: #f3f3f3;
+	margin-top: 70px; margin-bottom: 50px;
+	padding: 70px;
+}
+.brand-logos {
+	margin-top: 40px;
+}
+
+.Step-1 {
+	width: 50px; height: 20px; 
+	border-radius: 90px;
+	position: relative; border-color: grey;
+	right: 20px; margin: -10px;
+}
+
+.Step-2 {
+	width: 50px; height: 20px; border-radius: 90px;
+	position: relative;
+	right: 20px; margin: -10px;
+}
+
+.steps-col p::before {
+	content:''; position: absolute;
+	float: left; margin-left: -25px; 
+	bottom: 20px; 
+	background-color: #747474; 
+	box-sizing: border-box;
+	width: 2px; height: 90px;
+}
+
+.Step-3 {
+	width: 50px; height: 20px; border-radius: 90px;
+	position: relative;
+	right: 20px; margin: -10px;
+}
+
+.form-select {
+	width: 250px;
+}
+
+.footer-row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.footer {
+	margin-bottom: 0px;
+	margin-top: 100px;
+	background-color: #f3f3f3;
+
+}
+
+.footer-col {
+	width: 25%;
+	padding: 55px;
+
+}
+
+ul {
+	list-style: none;
+	color: black;
+}
+
+.footer-col h4 {
+	font-size: 18px;
+	color: #142342;
+	font-weight: 500px;
+	position: relative;
+}
+
+.footer-col h4:: before {
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: -10px;
+	background-color: #e91e63;
+	height: 10px; box-sizing: border-box;
+	width: 50px;
+}
+
+.footer-col ul li a {
+	color: black;
+	display: block;
+	margin-bottom: 10px;
+	transition: all 0.3s ease;}
+.footer-col ul li a:hover {
+	color: #ababab; padding-left: 10px;
+	font-size: 18px;
+} 

@@ -1,0 +1,123 @@
+<style> @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap'); </style>
+body {
+	line-height: 1.5;
+	font-family: 'Poppins', sans-serif;
+}
+
+* {
+	margin:0 ;
+	padding: 0 ;
+
+}
+
+.navbar-home {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+body {
+	line-height: 1.5;
+}
+
+.navbar-calendly-logo {
+	margin-left: 150px;
+}
+
+.nav-menu {
+	margin-right: 700px;
+}
+
+.menu-item {
+	color: black;
+}
+
+.head-text {
+	margin-top: 100px;
+}
+
+.contact-sales-btn {
+	color: white; background-color: black;
+	border: solid white; border-radius: 40px;}
+
+.contact-sales-btn:hover{
+	color:#0670fe;}
+
+.mid-panel {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 20px;
+}
+.card-text {
+	padding-top: 15px;
+}
+.brand-logos {
+	padding-top:30px ;
+}
+
+.text-primary {
+	padding-left: 20px;
+	padding-top: 20px;}
+
+.sales-cards {
+	margin-top: 20px;
+	padding: 20px;
+	border: solid white;
+	border-radius: 30px;
+	margin-left: 50px;
+}
+
+.learn-sales-btn {
+	color: white; background-color: black;
+	border: solid white; border-radius: 40px;
+	margin-top: 60px;
+}
+
+.footer-row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.footer {
+	margin-bottom: 0px;
+	margin-top: 100px;
+	background-color: #f3f3f3;
+
+}
+
+.footer-col {
+	width: 25%;
+	padding: 55px;
+
+}
+
+ul {
+	list-style: none;
+	color: black;
+}
+
+.footer-col h4 {
+	font-size: 18px;
+	color: #142342;
+	font-weight: 500px;
+	position: relative;
+}
+
+.footer-col h4:: before {
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: -10px;
+	background-color: #e91e63;
+	height: 10px; box-sizing: border-box;
+	width: 50px;
+}
+
+.footer-col ul li a {
+	color: black;
+	display: block;
+	margin-bottom: 10px;
+	transition: all 0.3s ease;}
+	
+.footer-col ul li a:hover {
+	color: #ababab; padding-left: 10px;
+} 
